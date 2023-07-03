@@ -1,0 +1,45 @@
+
+body{
+
+    background-color: #191919;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+.icons{
+    width: 50px;
+    height: auto;
+}
+
+.both-choice{
+    font-size: 25px;
+}
+.img-icon{
+    width: 100px;
+    height: auto;
+}
+
+.btn{
+    padding: 30px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius:100% ;
+    margin-right: 20px;
+}
+.reset-btn{
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 0px;
+}
+.score-line{
+    font-size: 30px;
+    margin-top: 70px;
+}
+.match-result{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 60px;
+}
